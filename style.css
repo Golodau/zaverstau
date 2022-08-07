@@ -1,0 +1,44 @@
+header {
+	background-image: url("background.png");
+	background-color: aqua;
+}
+.o_nas {
+	background-color: aliceblue;
+}
+.opit {
+	background-color: azure;
+}
+.hashi_raboti {
+	background-color: aquamarine;
+}
+.kvartira {
+	background-color: aqua;
+}
+.komanda {
+	background-color: rosybrown;
+}
+.kak_mi {
+	background-color: sandybrown;
+}
+.otzivi {
+	background-color: burlywood;
+}
+.zayavka {
+	background-color: saddlebrown;
+}
+footer {
+	background-color: brown;
+}
+.botton {
+	background-color: orangered;
+}
+.start {
+	background-color: indianred;
+}
+nav {
+	position: absolute;
+width: 1201.28px;
+height: 25px;
+left: 98.32px;
+top: 36px;
+}
